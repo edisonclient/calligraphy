@@ -1,0 +1,49 @@
+{
+  "proList": [
+    {
+      "proId": "001",
+      "proName": "蘭亭集序",
+      "proPrice": 10,
+      "Author": "王羲之",
+      "proImg": "img/1.jpg",
+      "proNum": 0,
+      "checked": false
+    },
+    {
+      "proId": "002",
+      "proName": "九成宮醴泉銘",
+      "proPrice": 20,
+      "Author": "歐陽詢",
+      "proImg": "img/2.jpg",
+      "proNum": 0,
+      "checked": false
+    },
+    {
+      "proId": "003",
+      "proName": "孔子廟堂碑",
+      "proPrice": 10,
+      "Author": "虞世南",
+      "proImg": "img/3.jpg",
+      "proNum": 0,
+      "checked": false
+    },
+    {
+      "proId": "004",
+      "proName": "大唐三藏聖教序",
+      "proPrice": 20,
+      "Author": "褚遂良",
+      "proImg": "img/4.jpg",
+      "proNum": 0,
+      "checked": false
+    },
+    {
+      "proId": "005",
+      "proName": "古詩四帖",
+      "proPrice": 30,
+      "Author": "張旭",
+      "proImg": "img/5.jpg",
+      "proNum": 0,
+      "checked": false
+    }
+  ]
+}
